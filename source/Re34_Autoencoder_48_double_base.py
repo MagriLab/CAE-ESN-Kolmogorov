@@ -34,6 +34,8 @@ mpl.rc('font', family = 'serif')
 
 # In[2]:
 
+################## For a TUTORIAL on ESNs -- with similar implementation -- check https://github.com/alberacca/Echo-State-Networks
+
 
 #load data
 upsample   = 1

@@ -83,7 +83,7 @@ for N_units in NN_units:
         # number of time steps for washout, train, validation, test
         N_washout = 100
         N_train   = int(N_trains/dt)
-        N_val     = int(400/dt)
+        N_val     = int(500/dt)
 
         print(N_train, N_val)
         print(N_val/N_lyap)
