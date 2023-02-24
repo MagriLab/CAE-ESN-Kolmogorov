@@ -6,7 +6,7 @@ The convolutional autoencoder provides a mapping of the high-dimensional flowfie
 
 
 ## Code
- - In tutorial, a simplified version of the architecture is explained in detail through Jupyter notebooks.
+ - In tutorial, a simplified version of the architecture, which can be trained in ~20 mins, is explained in detail through Jupyter notebooks.
 
  - In source, you can find the scripts used to train the architeture in the paper.
 
