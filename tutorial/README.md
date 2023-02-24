@@ -7,7 +7,7 @@ The structure is organised as follows:
 
 - ESN.ipynb (i) trains the echo state network to predict the latent space dynamics and (ii) shows the performance of the ESN in predicting the latent dynamics in the test set.
 
-- CAE-ESN.ipynb shows the combined architecture for the prediction of the flowfield in the test set.
+- CAE-ESN.ipynb shows (i) a comparison with Proper Orthogonal Decomposition (also known as Principal Component Analysis), (ii) the prediction in time of the flowfield in the test set.
 
 
 Detailed comments are provided within each script.
