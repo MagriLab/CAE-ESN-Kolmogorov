@@ -1,5 +1,5 @@
 # CAE-ESN-Kolmogorov
-Implementation of the convolutional autoencoder echo state netowrk (CAE-ESN) applied to the Kolmogorov flow, based on the paper https://arxiv.org/abs/2211.11379.
+Implementation of the convolutional autoencoder echo state netowrk (CAE-ESN) applied to the Kolmogorov flow, based on the paper by A.Racca et al. https://arxiv.org/abs/2211.11379.
 
 The CAE-ESN is a methodology to predict spatiotemporal dynamics, such as two dimensional flows, from data. 
 The convolutional autoencoder provides a mapping of th high-dimensional flowfield to a low-order representation, the latent space, whose dynamics are predicted by the ESN.
