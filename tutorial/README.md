@@ -1,6 +1,6 @@
 # Tutorial
 
-Running 2.-4., which consists of training and testing the architecture, require ~20min with a dedicated GPU.
+Running 2.-4., which consists of training and testing the architecture, requires ~20min with a dedicated GPU.
 
 The structure is organised as follows:
 
