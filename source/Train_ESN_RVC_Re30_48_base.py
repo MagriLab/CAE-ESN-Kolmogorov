@@ -74,7 +74,7 @@ threshold_ph = 0.2
 
 
 NN_units  = [2000]     #number of units
-NN_train  = [500,1000] #number of training points
+NN_train  = [15000] #number of training points
 
 for N_units in NN_units:
 
