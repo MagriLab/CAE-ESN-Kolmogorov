@@ -4,7 +4,7 @@ This folder contains the scripts used to train the CAE-ESN described in https://
 
 The structure is organised as follows:
 
-- Data needs to be generated from ../tutorial/Gen_data.ipynb by solving the Kolmogorov flow using KolSol (https://github.com/MagriLab/KolSol), a pseudospectral solver implemented in pytorch.
+- Data needs to be generated from ../tutorial/Gen_data.ipynb by solving the Kolmogorov flow using KolSol (https://github.com/MagriLab/KolSol), a pseudospectral solver implemented in pytorch. Alternatively, the datasets can be downloaded from https://zenodo.org/record/7698307#.ZAMyrtLP1mg.
 
 - Once the flowfield time series is available, the autoencoder is trained using Re30_Autoencoder_48_double_base.py. The autoencoder provides the mapping to (and back from) the low-dimensional latent space.
 
