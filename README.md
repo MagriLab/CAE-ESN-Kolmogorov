@@ -11,3 +11,5 @@ The convolutional autoencoder provides a mapping of the high-dimensional flowfie
  - In source, you can find the scripts used to train the architeture in the paper.
 
 More details are provided by the Readme file inside the tutorial and source folders.
+
+The code requires Tensorflow 2.6.
